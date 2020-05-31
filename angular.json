@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Auth0AngularDemo"
+    }
+  },
+  "defaultProject": "Auth0AngularDemo",
+  "cli": {
+    "analytics": false
+  }
 }
